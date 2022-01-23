@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12_Register with number in name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dceee84a-4772-4337-8677-b338c87eb712</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>925112d0-3abe-49ef-858e-957bd33fa266</id>
+      <masked>false</masked>
+      <name>linkWeb</name>
+   </variable>
+   <variable>
+      <defaultValue>'8766543234'</defaultValue>
+      <description></description>
+      <id>351a680f-fe5d-47a4-96f5-7529302aee28</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'hothinhuquynh661@gmail.com'</defaultValue>
+      <description></description>
+      <id>de300dff-deb9-4339-8de0-7f37b2a3e803</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0987765433'</defaultValue>
+      <description></description>
+      <id>0fcee378-fa75-4463-a641-e6b51b57e436</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

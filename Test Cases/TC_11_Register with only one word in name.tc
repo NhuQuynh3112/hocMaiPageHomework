@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11_Register with only one word in name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fda4f2f6-0a95-4143-8df2-ff2f921d8b07</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>db189fce-ec5c-4e04-92a0-84e7c1015980</id>
+      <masked>false</masked>
+      <name>linkWeb</name>
+   </variable>
+   <variable>
+      <defaultValue>'quynh'</defaultValue>
+      <description></description>
+      <id>fe6d9a5a-0fae-4129-b505-9c90eeb9dfdd</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'hothinhuquynh661@gmail.com'</defaultValue>
+      <description></description>
+      <id>9abbb2df-b9d6-4f75-8547-e290dea9d6a4</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0987654322'</defaultValue>
+      <description></description>
+      <id>f1fe79e1-8e1c-404f-94df-2bb2200526d9</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

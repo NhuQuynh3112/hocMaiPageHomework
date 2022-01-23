@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Register with empty data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fe59a93-84ff-4fbe-b2cb-ba63166a14d2</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>30b43391-4e28-43fe-b665-89b0cea9bfe9</id>
+      <masked>false</masked>
+      <name>linkWeb</name>
+   </variable>
+</TestCaseEntity>
